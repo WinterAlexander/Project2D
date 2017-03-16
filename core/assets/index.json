@@ -1,0 +1,11 @@
+{
+  "textures/background.jpg" : "com.badlogic.gdx.graphics.Texture",
+  "textures/badlogic.jpg" : "com.badlogic.gdx.graphics.Texture",
+  "textures/ground.png" : "com.badlogic.gdx.graphics.Texture",
+  "textures/hull.png" : "com.badlogic.gdx.graphics.Texture",
+  "textures/ramp.png" : "com.badlogic.gdx.graphics.Texture",
+  "textures/rope.png" : "com.badlogic.gdx.graphics.Texture",
+  "textures/wheel.png" : "com.badlogic.gdx.graphics.Texture",
+  "levels/level2.lvl.png" : "me.winter.project2d.LevelImage",
+  "textures/player.png" : "com.badlogic.gdx.graphics.Texture"
+}
